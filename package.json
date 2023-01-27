@@ -2,8 +2,8 @@
   "name": "proshop",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
-  "homepage":"/frontend/build",
+  "main": "/backend/server.js",
+  "homepage":"/backend/seder.js",
   "scripts": {
     "start": "node backend/server.js",
     "server": "nodemon backend/server.js",
